@@ -1,2 +1,2 @@
-# msib6
+# MSIB
 ini adalah repository untuk project pertama di MSIB 6
